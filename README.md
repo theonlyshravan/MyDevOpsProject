@@ -41,7 +41,6 @@ It captures user input from a web form and stores it in a cloud-hosted NoSQL dat
 | **PyMongo**      | MongoDB-Python connector                     |
 | **dotenv**       | Manages environment variables securely       |
 | **HTML5**        | Frontend form structure                      |
-| **CSS**          | (Optional) Basic styling for responsiveness |
 
 ---
 
